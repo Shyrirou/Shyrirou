@@ -1,4 +1,6 @@
-### Hi there 👋
+### Bonjour/ Bonsoir 👋
+## Formation en développement web en cours :clock1030:
+Mon compte linkedin: https://www.linkedin.com/in/cyril-joseph-81ba4b1b9/
 
 <!--
 **Shyrirou/Shyrirou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
