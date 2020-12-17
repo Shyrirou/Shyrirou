@@ -1,13 +1,15 @@
 # Bonjour/ Bonsoir 👋
 ### Formation en développement web en cours :clock1030:
+
 Mon [linkedin](https://www.linkedin.com/in/cyril-joseph-81ba4b1b9/)
 
+Compétences acquise :computer: (à approfondir car on en apprend tous les jours)
+Front-end
+-HTML5/CSS3 :star::star::star::star:
+-JAVASCRIPT :star::star::star:
+-ANGULAR    :star:
 
-##Compétences acquise :computer: (à approfondir car on en apprend tous les jours)
-###Front-end
-####-HTML5/CSS3 :star::star::star::star:
-####-JAVASCRIPT :star::star::star:
-####-ANGULAR    :star:
+
 <!--
 **Shyrirou/Shyrirou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
