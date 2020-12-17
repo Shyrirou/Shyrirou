@@ -1,13 +1,14 @@
 # Bonjour/ Bonsoir 👋
 ### Formation en développement web en cours :clock1030:
 
-Mon [linkedin](https://www.linkedin.com/in/cyril-joseph-81ba4b1b9/)
+#### Mon [linkedin](https://www.linkedin.com/in/cyril-joseph-81ba4b1b9/)
+#### Mon [portfolio](https://www.cyril-joseph.fr/) :globe_with_meridians:
 
-Compétences acquise :computer: (à approfondir car on en apprend tous les jours)
-Front-end
--HTML5/CSS3 :star::star::star::star:
--JAVASCRIPT :star::star::star:
--ANGULAR    :star:
+## Compétences acquise :computer: (à approfondir car on en apprend tous les jours)
+### Front-end
+#### -HTML5/CSS3 :star::star::star::star:
+#### -JAVASCRIPT :star::star::star:
+#### -ANGULAR    :star:
 
 
 <!--
